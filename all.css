@@ -152,14 +152,14 @@ body{
   display: flex;
   justify-content: space-between;
   background-color: #150185;
-  /* color: white; */
+  color: white;
   padding: 16px 24px;
 }
 .nav-list{
   display: flex;
 }
 .nav-list a{
-  color:white;
+  color:blue;
   padding-left:8px;
   padding-right:8px;
 }
