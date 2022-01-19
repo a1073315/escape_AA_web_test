@@ -152,7 +152,7 @@ body{
   display: flex;
   justify-content: space-between;
   background-color: #150185;
-  color: white;
+  /* color: white; */
   padding: 16px 24px;
 }
 .nav-list{
