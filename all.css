@@ -159,6 +159,7 @@ body{
   display: flex;
 }
 .nav-list a{
+  background-color: #150185;
   color:blue;
   padding-left:8px;
   padding-right:8px;
